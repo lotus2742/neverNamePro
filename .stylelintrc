@@ -1,0 +1,17 @@
+{
+  "extends": ["@sfe/eslint-config-sgfe/.stylelintrc"],
+  "rules": {
+    "no-empty-source": null,
+    "no-duplicate-selectors": null,
+    "max-empty-lines": null,
+    "declaration-block-semicolon-newline-after": null,
+    "declaration-block-semicolon-space-after": null,
+    "declaration-block-trailing-semicolon": null,
+    "declaration-colon-space-after": null,
+    "declaration-block-semicolon-space-before": null,
+    "selector-pseudo-element-colon-notation": null,
+    "block-closing-brace-empty-line-before": null,
+    "selector-pseudo-class-no-unknown": null
+
+  }
+}
